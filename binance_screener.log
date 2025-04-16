@@ -1,0 +1,242 @@
+2025-04-16 09:55:53,965 - INFO - Retrieved 469 valid futures symbols
+2025-04-16 09:55:54,017 - INFO - Selected top 464 symbols by quote volume
+2025-04-16 09:57:09,231 - INFO - Golden Cross Results:
+Empty DataFrame
+Columns: []
+Index: []
+2025-04-16 09:57:09,232 - INFO - Dead Cross Results:
+Empty DataFrame
+Columns: []
+Index: []
+2025-04-16 09:58:05,066 - WARNING - Connection pool is full, discarding connection: fapi.binance.com. Connection pool size: 10
+2025-04-16 09:58:05,071 - WARNING - Connection pool is full, discarding connection: fapi.binance.com. Connection pool size: 10
+2025-04-16 09:58:05,086 - WARNING - Connection pool is full, discarding connection: fapi.binance.com. Connection pool size: 10
+2025-04-16 09:58:06,225 - WARNING - Connection pool is full, discarding connection: fapi.binance.com. Connection pool size: 10
+2025-04-16 09:58:06,448 - WARNING - Connection pool is full, discarding connection: fapi.binance.com. Connection pool size: 10
+2025-04-16 09:58:06,712 - WARNING - Connection pool is full, discarding connection: fapi.binance.com. Connection pool size: 10
+2025-04-16 09:58:06,714 - WARNING - Connection pool is full, discarding connection: fapi.binance.com. Connection pool size: 10
+2025-04-16 09:58:06,728 - WARNING - Connection pool is full, discarding connection: fapi.binance.com. Connection pool size: 10
+2025-04-16 09:58:06,739 - WARNING - Connection pool is full, discarding connection: fapi.binance.com. Connection pool size: 10
+2025-04-16 09:58:06,756 - WARNING - Connection pool is full, discarding connection: fapi.binance.com. Connection pool size: 10
+2025-04-16 09:58:06,770 - WARNING - Connection pool is full, discarding connection: fapi.binance.com. Connection pool size: 10
+2025-04-16 09:58:06,775 - WARNING - Connection pool is full, discarding connection: fapi.binance.com. Connection pool size: 10
+2025-04-16 09:59:20,660 - WARNING - Connection pool is full, discarding connection: fapi.binance.com. Connection pool size: 10
+2025-04-16 09:59:20,666 - WARNING - Connection pool is full, discarding connection: fapi.binance.com. Connection pool size: 10
+2025-04-16 09:59:20,905 - WARNING - Connection pool is full, discarding connection: fapi.binance.com. Connection pool size: 10
+2025-04-16 09:59:21,434 - WARNING - Connection pool is full, discarding connection: fapi.binance.com. Connection pool size: 10
+2025-04-16 09:59:21,438 - WARNING - Connection pool is full, discarding connection: fapi.binance.com. Connection pool size: 10
+2025-04-16 09:59:21,851 - WARNING - Connection pool is full, discarding connection: fapi.binance.com. Connection pool size: 10
+2025-04-16 09:59:22,313 - WARNING - Connection pool is full, discarding connection: fapi.binance.com. Connection pool size: 10
+2025-04-16 09:59:22,319 - WARNING - Connection pool is full, discarding connection: fapi.binance.com. Connection pool size: 10
+2025-04-16 09:59:22,333 - WARNING - Connection pool is full, discarding connection: fapi.binance.com. Connection pool size: 10
+2025-04-16 09:59:22,345 - WARNING - Connection pool is full, discarding connection: fapi.binance.com. Connection pool size: 10
+2025-04-16 09:59:22,373 - WARNING - Connection pool is full, discarding connection: fapi.binance.com. Connection pool size: 10
+2025-04-16 09:59:22,384 - WARNING - Connection pool is full, discarding connection: fapi.binance.com. Connection pool size: 10
+2025-04-16 09:59:22,627 - WARNING - Connection pool is full, discarding connection: fapi.binance.com. Connection pool size: 10
+2025-04-16 09:59:53,849 - WARNING - Connection pool is full, discarding connection: fapi.binance.com. Connection pool size: 10
+2025-04-16 09:59:53,859 - WARNING - Connection pool is full, discarding connection: fapi.binance.com. Connection pool size: 10
+2025-04-16 09:59:53,875 - WARNING - Connection pool is full, discarding connection: fapi.binance.com. Connection pool size: 10
+2025-04-16 09:59:54,707 - WARNING - Connection pool is full, discarding connection: fapi.binance.com. Connection pool size: 10
+2025-04-16 09:59:54,710 - WARNING - Connection pool is full, discarding connection: fapi.binance.com. Connection pool size: 10
+2025-04-16 09:59:54,749 - WARNING - Connection pool is full, discarding connection: fapi.binance.com. Connection pool size: 10
+2025-04-16 09:59:55,599 - WARNING - Connection pool is full, discarding connection: fapi.binance.com. Connection pool size: 10
+2025-04-16 09:59:55,618 - WARNING - Connection pool is full, discarding connection: fapi.binance.com. Connection pool size: 10
+2025-04-16 09:59:55,618 - WARNING - Connection pool is full, discarding connection: fapi.binance.com. Connection pool size: 10
+2025-04-16 09:59:55,623 - WARNING - Connection pool is full, discarding connection: fapi.binance.com. Connection pool size: 10
+2025-04-16 09:59:55,628 - WARNING - Connection pool is full, discarding connection: fapi.binance.com. Connection pool size: 10
+2025-04-16 09:59:55,656 - WARNING - Connection pool is full, discarding connection: fapi.binance.com. Connection pool size: 10
+2025-04-16 10:02:38,899 - INFO - Golden Cross Results:
+Empty DataFrame
+Columns: [Symbol, Cross Type, RSI]
+Index: []
+2025-04-16 10:02:38,899 - INFO - Dead Cross Results:
+Empty DataFrame
+Columns: [Symbol, Cross Type, RSI]
+Index: []
+2025-04-16 10:04:49,684 - INFO - Final Results:
+      Symbol                Signal  Current RSI
+       SUSDT    Dead Cross 200/400    23.333333
+       SUSDT   Dead Cross 200/1200    23.333333
+ VIRTUALUSDT    Dead Cross 200/400    24.770642
+ VIRTUALUSDT   Dead Cross 200/1200    24.770642
+     XLMUSDT    Dead Cross 200/400    23.421263
+     XLMUSDT   Dead Cross 200/1200    23.421263
+     NFPUSDT    Dead Cross 200/400    25.000000
+     NFPUSDT   Dead Cross 200/1200    25.000000
+   BRETTUSDT    Dead Cross 200/400    21.810089
+   BRETTUSDT   Dead Cross 200/1200    21.810089
+    PROMUSDT    Dead Cross 200/400    23.357664
+    PROMUSDT   Dead Cross 200/1200    23.357664
+     SPXUSDT    Dead Cross 200/400    21.553885
+     SPXUSDT   Dead Cross 200/1200    21.553885
+     DYMUSDT    Dead Cross 200/400    23.376623
+     DYMUSDT   Dead Cross 200/1200    23.376623
+      OMUSDT    Dead Cross 200/400    17.936169
+      OMUSDT   Dead Cross 200/1200    17.936169
+     TUTUSDT  Golden Cross 200/400    83.227848
+     TUTUSDT Golden Cross 200/1200    83.227848
+     BIDUSDT  Golden Cross 200/400    78.431373
+     BIDUSDT Golden Cross 200/1200    78.431373
+NEIROETHUSDT  Golden Cross 200/400    78.640777
+NEIROETHUSDT Golden Cross 200/1200    78.640777
+     MEWUSDT    Dead Cross 200/400    14.035088
+     MEWUSDT   Dead Cross 200/1200    14.035088
+2025-04-16 10:06:47,546 - INFO - Final Results:
+      Symbol                Signal  Current RSI
+    MOVEUSDT    Dead Cross 200/400    21.735817
+    MOVEUSDT   Dead Cross 200/1200    21.735817
+    MOCAUSDT    Dead Cross 200/400    18.782361
+    MOCAUSDT   Dead Cross 200/1200    18.782361
+    VTHOUSDT    Dead Cross 200/400    19.017477
+    VTHOUSDT   Dead Cross 200/1200    19.017477
+     TUTUSDT  Golden Cross 200/400    85.159417
+     TUTUSDT Golden Cross 200/1200    85.159417
+NEIROETHUSDT  Golden Cross 200/400    82.212737
+NEIROETHUSDT Golden Cross 200/1200    82.212737
+2025-04-16 10:10:16,950 - INFO - Final Results:
+      Symbol                Signal  Current RSI
+    MOVEUSDT    Dead Cross 200/400    23.997807
+    MOVEUSDT   Dead Cross 200/1200    23.997807
+    VTHOUSDT    Dead Cross 200/400    17.904600
+    VTHOUSDT   Dead Cross 200/1200    17.904600
+     TUTUSDT  Golden Cross 200/400    86.339910
+     TUTUSDT Golden Cross 200/1200    86.339910
+NEIROETHUSDT  Golden Cross 200/400    84.001892
+NEIROETHUSDT Golden Cross 200/1200    84.001892
+2025-04-16 10:12:44,995 - INFO - Final Results:
+  Symbol              Signal  Current RSI
+MOVEUSDT  Dead Cross 200/400    23.000474
+MOVEUSDT Dead Cross 200/1200    23.000474
+2025-04-16 10:15:15,709 - INFO - Final Results:
+  Symbol                Signal  Current RSI
+MOVEUSDT    Dead Cross 200/400    24.251839
+MOVEUSDT   Dead Cross 200/1200    24.251839
+MOCAUSDT    Dead Cross 200/400    24.775956
+MOCAUSDT   Dead Cross 200/1200    24.775956
+VTHOUSDT    Dead Cross 200/400    15.461652
+VTHOUSDT   Dead Cross 200/1200    15.461652
+PROMUSDT    Dead Cross 200/400    19.992560
+PROMUSDT   Dead Cross 200/1200    19.992560
+ TUTUSDT  Golden Cross 200/400    86.130576
+ TUTUSDT Golden Cross 200/1200    86.130576
+  MEUSDT    Dead Cross 200/400    22.426541
+  MEUSDT   Dead Cross 200/1200    22.426541
+2025-04-16 10:19:54,267 - INFO - Final Results:
+    Symbol                Signal  Current RSI
+ALPACAUSDT  Golden Cross 200/400    76.824167
+  VTHOUSDT    Dead Cross 200/400    20.990020
+  VTHOUSDT   Dead Cross 200/1200    20.990020
+   TUTUSDT  Golden Cross 200/400    86.216210
+   TUTUSDT Golden Cross 200/1200    86.216210
+2025-04-16 10:22:08,389 - INFO - Final Results:
+    Symbol                Signal  Current RSI
+ALPACAUSDT  Golden Cross 200/400    77.030600
+  POWRUSDT  Golden Cross 200/400    75.442746
+  POWRUSDT Golden Cross 200/1200    75.442746
+  VTHOUSDT    Dead Cross 200/400    22.675558
+  VTHOUSDT   Dead Cross 200/1200    22.675558
+   FXSUSDT  Golden Cross 200/400    75.542577
+   FXSUSDT Golden Cross 200/1200    75.542577
+  MOVRUSDT  Golden Cross 200/400    75.060490
+  MOVRUSDT Golden Cross 200/1200    75.060490
+   TUTUSDT  Golden Cross 200/400    88.122854
+   TUTUSDT Golden Cross 200/1200    88.122854
+ DRIFTUSDT  Golden Cross 200/400    75.709628
+ DRIFTUSDT Golden Cross 200/1200    75.709628
+2025-04-16 10:26:50,585 - ERROR - Error fetching symbols: APIError(code=-1003): Way too many requests; IP(118.36.134.145) banned until 1744766930922. Please use the websocket for live updates to avoid bans.
+2025-04-16 10:51:00,876 - INFO - Final Results:
+   Symbol                Signal  Current RSI
+HIPPOUSDT  Golden Cross 200/400    76.923077
+HIPPOUSDT Golden Cross 200/1200    76.923077
+ POWRUSDT  Golden Cross 200/400    77.319588
+ POWRUSDT Golden Cross 200/1200    77.319588
+ VTHOUSDT    Dead Cross 200/400     9.157509
+ VTHOUSDT   Dead Cross 200/1200     9.157509
+  XTZUSDT  Golden Cross 200/400    81.818182
+  XTZUSDT Golden Cross 200/1200    81.818182
+ MOVRUSDT  Golden Cross 200/400    75.520833
+ MOVRUSDT Golden Cross 200/1200    75.520833
+  TUTUSDT  Golden Cross 200/400    75.062344
+  TUTUSDT Golden Cross 200/1200    75.062344
+2025-04-16 10:53:27,315 - INFO - Final Results:
+    Symbol                Signal  Current RSI
+PENDLEUSDT  Golden Cross 200/400    75.943396
+PENDLEUSDT Golden Cross 200/1200    75.943396
+ HIPPOUSDT  Golden Cross 200/400    76.923077
+ HIPPOUSDT Golden Cross 200/1200    76.923077
+ALPACAUSDT  Golden Cross 200/400    75.496689
+  POWRUSDT  Golden Cross 200/400    77.551020
+  POWRUSDT Golden Cross 200/1200    77.551020
+  VTHOUSDT    Dead Cross 200/400     9.090909
+  VTHOUSDT   Dead Cross 200/1200     9.090909
+  PAXGUSDT  Golden Cross 200/400    87.347363
+  PAXGUSDT Golden Cross 200/1200    87.347363
+   XTZUSDT  Golden Cross 200/400    81.818182
+   XTZUSDT Golden Cross 200/1200    81.818182
+  MOVRUSDT  Golden Cross 200/400    76.020408
+  MOVRUSDT Golden Cross 200/1200    76.020408
+ DRIFTUSDT  Golden Cross 200/400    75.000000
+ DRIFTUSDT Golden Cross 200/1200    75.000000
+   WALUSDT    Dead Cross 200/400    22.380952
+   WALUSDT   Dead Cross 200/1200    22.380952
+   ZILUSDT  Golden Cross 200/400    77.083333
+   ZILUSDT Golden Cross 200/1200    77.083333
+2025-04-16 10:54:42,780 - INFO - Final Results:
+    Symbol                Signal  Current RSI
+ HIPPOUSDT  Golden Cross 200/400    76.923077
+ HIPPOUSDT Golden Cross 200/1200    76.923077
+  POWRUSDT  Golden Cross 200/400    76.344086
+  POWRUSDT Golden Cross 200/1200    76.344086
+ALPACAUSDT  Golden Cross 200/400    75.167785
+  VTHOUSDT    Dead Cross 200/400     9.057971
+  VTHOUSDT   Dead Cross 200/1200     9.057971
+  PAXGUSDT  Golden Cross 200/400    87.595517
+  PAXGUSDT Golden Cross 200/1200    87.595517
+   XTZUSDT  Golden Cross 200/400    80.952381
+   XTZUSDT Golden Cross 200/1200    80.952381
+   FXSUSDT  Golden Cross 200/400    75.040783
+   FXSUSDT Golden Cross 200/1200    75.040783
+  MOVRUSDT  Golden Cross 200/400    75.647668
+  MOVRUSDT Golden Cross 200/1200    75.647668
+ DRIFTUSDT  Golden Cross 200/400    75.113122
+ DRIFTUSDT Golden Cross 200/1200    75.113122
+   WALUSDT    Dead Cross 200/400    20.346320
+   WALUSDT   Dead Cross 200/1200    20.346320
+   ZILUSDT  Golden Cross 200/400    76.086957
+   ZILUSDT Golden Cross 200/1200    76.086957
+2025-04-16 11:07:17,968 - INFO - Final Results:
+Empty DataFrame
+Columns: [Symbol, Signal, Current RSI]
+Index: []
+2025-04-16 11:09:26,115 - WARNING - Insufficient data for WCTUSDT: 61 rows
+2025-04-16 11:09:26,911 - WARNING - Insufficient data for KERNELUSDT: 153 rows
+2025-04-16 11:09:32,662 - WARNING - Insufficient data for BABYUSDT: 1011 rows
+2025-04-16 11:09:33,984 - WARNING - Insufficient data for PUMPUSDT: 335 rows
+2025-04-16 11:09:34,618 - WARNING - Insufficient data for XCNUSDT: 427 rows
+2025-04-16 11:09:35,764 - WARNING - Insufficient data for PROMPTUSDT: 463 rows
+2025-04-16 11:09:37,253 - WARNING - Insufficient data for FORTHUSDT: 743 rows
+2025-04-16 11:09:38,036 - WARNING - Insufficient data for STOUSDT: 334 rows
+2025-04-16 11:09:43,835 - WARNING - Insufficient data for FHEUSDT: 333 rows
+2025-04-16 11:09:44,445 - INFO - No symbols meet the criteria.
+2025-04-16 11:13:13,385 - WARNING - Insufficient data for WCTUSDT: 61 rows
+2025-04-16 11:13:14,248 - WARNING - Insufficient data for KERNELUSDT: 153 rows
+2025-04-16 11:13:19,910 - WARNING - Insufficient data for BABYUSDT: 1011 rows
+2025-04-16 11:13:21,317 - WARNING - Insufficient data for PUMPUSDT: 335 rows
+2025-04-16 11:13:21,834 - WARNING - Insufficient data for XCNUSDT: 427 rows
+2025-04-16 11:13:22,959 - WARNING - Insufficient data for PROMPTUSDT: 463 rows
+2025-04-16 11:13:24,521 - WARNING - Insufficient data for FORTHUSDT: 743 rows
+2025-04-16 11:13:25,285 - WARNING - Insufficient data for STOUSDT: 334 rows
+2025-04-16 11:13:31,005 - WARNING - Insufficient data for FHEUSDT: 333 rows
+2025-04-16 11:13:31,662 - INFO - No symbols meet the criteria.
+2025-04-16 11:14:07,058 - WARNING - Insufficient data for WCTUSDT: 61 rows
+2025-04-16 11:14:08,014 - WARNING - Insufficient data for KERNELUSDT: 153 rows
+2025-04-16 11:14:13,759 - WARNING - Insufficient data for BABYUSDT: 1011 rows
+2025-04-16 11:14:15,129 - WARNING - Insufficient data for PUMPUSDT: 335 rows
+2025-04-16 11:14:15,663 - WARNING - Insufficient data for XCNUSDT: 427 rows
+2025-04-16 11:14:16,925 - WARNING - Insufficient data for PROMPTUSDT: 463 rows
+2025-04-16 11:14:18,498 - WARNING - Insufficient data for FORTHUSDT: 743 rows
+2025-04-16 11:14:19,273 - WARNING - Insufficient data for STOUSDT: 334 rows
+2025-04-16 11:14:24,976 - WARNING - Insufficient data for FHEUSDT: 333 rows
+2025-04-16 11:14:25,639 - INFO - Final Results:
+ Symbol                               Signal  Current RSI
+FXSUSDT Golden Cross 200/400 (within 3 days)    72.521761
