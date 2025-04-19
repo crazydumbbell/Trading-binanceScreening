@@ -69,8 +69,8 @@ def process_symbol(symbol, semaphore):
             past_rsi = df['rsi'].iloc[-97:-1]  # 24시간 (96개 캔들)
 
             # RSI 조건: 과매수→과매도, 과매도→과매수
-            rsi_overbought_to_oversold = (past_rsi.max() > 70) and (current_rsi <= 30)
-            rsi_oversold_to_overbought = (past_rsi.min() < 30) and (current_rsi >= 70)
+            rsi_overbought_to_oversold = (past_rsi.max() > 75) and (current_rsi <= 30)
+            rsi_oversold_to_overbought = (past_rsi.min() < 25) and (current_rsi >= 70)
 
             cross_400 = check_sma_cross(df['close'], 200, 400)
             cross_1200 = check_sma_cross(df['close'], 200, 1200)

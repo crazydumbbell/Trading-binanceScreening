@@ -240,3 +240,88 @@ Index: []
 2025-04-16 11:14:25,639 - INFO - Final Results:
  Symbol                               Signal  Current RSI
 FXSUSDT Golden Cross 200/400 (within 3 days)    72.521761
+2025-04-16 12:56:54,958 - WARNING - Insufficient data for WCTUSDT: 68 rows
+2025-04-16 12:56:55,727 - WARNING - Insufficient data for PUMPUSDT: 342 rows
+2025-04-16 12:56:56,202 - WARNING - Insufficient data for KERNELUSDT: 160 rows
+2025-04-16 12:57:02,340 - WARNING - Insufficient data for BABYUSDT: 1018 rows
+2025-04-16 12:57:04,006 - WARNING - Insufficient data for XCNUSDT: 434 rows
+2025-04-16 12:57:05,561 - WARNING - Insufficient data for PROMPTUSDT: 470 rows
+2025-04-16 12:57:06,322 - WARNING - Insufficient data for FORTHUSDT: 750 rows
+2025-04-16 12:57:07,516 - WARNING - Insufficient data for STOUSDT: 341 rows
+2025-04-16 12:57:13,017 - WARNING - Insufficient data for FHEUSDT: 340 rows
+2025-04-16 12:57:14,089 - INFO - Final Results:
+  Symbol                               Signal  Current RSI
+ FXSUSDT Golden Cross 200/400 (within 3 days)    78.491401
+PROMUSDT Golden Cross 200/400 (within 3 days)    71.041744
+2025-04-16 12:58:24,584 - WARNING - Insufficient data for WCTUSDT: 68 rows
+2025-04-16 12:58:25,323 - WARNING - Insufficient data for PUMPUSDT: 342 rows
+2025-04-16 12:58:25,661 - WARNING - Insufficient data for KERNELUSDT: 160 rows
+2025-04-16 12:58:31,898 - WARNING - Insufficient data for BABYUSDT: 1018 rows
+2025-04-16 12:58:33,541 - WARNING - Insufficient data for XCNUSDT: 434 rows
+2025-04-16 12:58:35,101 - WARNING - Insufficient data for PROMPTUSDT: 470 rows
+2025-04-16 12:58:35,830 - WARNING - Insufficient data for FORTHUSDT: 750 rows
+2025-04-16 12:58:36,928 - WARNING - Insufficient data for STOUSDT: 341 rows
+2025-04-16 12:58:42,453 - WARNING - Insufficient data for FHEUSDT: 340 rows
+2025-04-16 12:58:43,549 - INFO - Final Results:
+ Symbol                               Signal  Current RSI
+FXSUSDT Golden Cross 200/400 (within 3 days)    78.271956
+2025-04-16 14:50:01,098 - WARNING - Insufficient data for WCTUSDT: 76 rows
+2025-04-16 14:50:01,217 - WARNING - Insufficient data for PUMPUSDT: 350 rows
+2025-04-16 14:50:03,850 - WARNING - Insufficient data for KERNELUSDT: 168 rows
+2025-04-16 14:50:09,929 - WARNING - Insufficient data for BABYUSDT: 1026 rows
+2025-04-16 14:50:11,605 - WARNING - Insufficient data for XCNUSDT: 442 rows
+2025-04-16 14:50:13,588 - WARNING - Insufficient data for PROMPTUSDT: 478 rows
+2025-04-16 14:50:13,841 - WARNING - Insufficient data for FORTHUSDT: 758 rows
+2025-04-16 14:50:14,415 - WARNING - Insufficient data for STOUSDT: 349 rows
+2025-04-16 14:50:20,433 - WARNING - Insufficient data for FHEUSDT: 348 rows
+2025-04-16 14:50:21,846 - INFO - No symbols meet the criteria.
+2025-04-17 03:22:17,592 - WARNING - Insufficient data for INITUSDT: 48 rows
+2025-04-17 03:22:21,961 - WARNING - Insufficient data for FHEUSDT: 398 rows
+2025-04-17 03:22:25,424 - WARNING - Insufficient data for AERGOUSDT: 30 rows
+2025-04-17 03:22:25,826 - WARNING - Insufficient data for KERNELUSDT: 218 rows
+2025-04-17 03:22:29,607 - WARNING - Insufficient data for XCNUSDT: 492 rows
+2025-04-17 03:22:30,689 - WARNING - Insufficient data for STOUSDT: 399 rows
+2025-04-17 03:22:32,234 - WARNING - Insufficient data for BABYUSDT: 1076 rows
+2025-04-17 03:22:33,658 - WARNING - Insufficient data for FORTHUSDT: 808 rows
+2025-04-17 03:22:34,966 - WARNING - Insufficient data for WCTUSDT: 126 rows
+2025-04-17 03:22:37,061 - WARNING - Insufficient data for PROMPTUSDT: 528 rows
+2025-04-17 03:22:39,946 - WARNING - Insufficient data for PUMPUSDT: 400 rows
+2025-04-17 03:22:44,522 - INFO - No symbols meet the criteria.
+2025-04-18 10:56:56,693 - WARNING - Insufficient data for PROMPTUSDT: 654 rows
+2025-04-18 10:56:56,795 - WARNING - Insufficient data for AERGOUSDT: 156 rows
+2025-04-18 10:56:59,626 - WARNING - Insufficient data for WCTUSDT: 252 rows
+2025-04-18 10:57:01,487 - WARNING - Insufficient data for FHEUSDT: 524 rows
+2025-04-18 10:57:11,001 - WARNING - Insufficient data for XCNUSDT: 618 rows
+2025-04-18 10:57:12,781 - WARNING - Insufficient data for KERNELUSDT: 344 rows
+2025-04-18 10:57:13,615 - WARNING - Insufficient data for STOUSDT: 525 rows
+2025-04-18 10:57:14,206 - WARNING - Insufficient data for BABYUSDT: 1202 rows
+2025-04-18 10:57:17,459 - WARNING - Insufficient data for INITUSDT: 174 rows
+2025-04-18 10:57:19,752 - WARNING - Insufficient data for PUMPUSDT: 526 rows
+2025-04-18 10:57:20,907 - WARNING - Insufficient data for FORTHUSDT: 934 rows
+2025-04-18 10:57:21,448 - INFO - Final Results:
+ Symbol                                Signal  Current RSI
+GASUSDT  Golden Cross 200/400 (within 3 days)    83.210044
+GASUSDT Golden Cross 200/1200 (within 3 days)    83.210044
+2025-04-18 15:35:07,564 - WARNING - Insufficient data for AERGOUSDT: 175 rows
+2025-04-18 15:35:08,126 - WARNING - Insufficient data for FORTHUSDT: 953 rows
+2025-04-18 15:35:09,682 - WARNING - Insufficient data for PROMPTUSDT: 673 rows
+2025-04-18 15:35:12,430 - WARNING - Insufficient data for FHEUSDT: 543 rows
+2025-04-18 15:35:13,904 - WARNING - Insufficient data for WCTUSDT: 271 rows
+2025-04-18 15:35:22,940 - WARNING - Insufficient data for XCNUSDT: 637 rows
+2025-04-18 15:35:26,623 - WARNING - Insufficient data for KERNELUSDT: 363 rows
+2025-04-18 15:35:27,317 - WARNING - Insufficient data for STOUSDT: 544 rows
+2025-04-18 15:35:28,483 - WARNING - Insufficient data for INITUSDT: 193 rows
+2025-04-18 15:35:31,677 - WARNING - Insufficient data for PUMPUSDT: 545 rows
+2025-04-18 15:35:32,478 - INFO - No symbols meet the criteria.
+2025-04-19 05:03:27,646 - WARNING - Insufficient data for PROMPTUSDT: 727 rows
+2025-04-19 05:03:29,017 - WARNING - Insufficient data for INITUSDT: 247 rows
+2025-04-19 05:03:30,239 - WARNING - Insufficient data for FORTHUSDT: 1007 rows
+2025-04-19 05:03:31,614 - WARNING - Insufficient data for PUMPUSDT: 599 rows
+2025-04-19 05:03:34,864 - WARNING - Insufficient data for BANKUSDT: 7 rows
+2025-04-19 05:03:38,390 - WARNING - Insufficient data for WCTUSDT: 325 rows
+2025-04-19 05:03:45,886 - WARNING - Insufficient data for KERNELUSDT: 417 rows
+2025-04-19 05:03:46,448 - WARNING - Insufficient data for XCNUSDT: 691 rows
+2025-04-19 05:03:47,463 - WARNING - Insufficient data for STOUSDT: 598 rows
+2025-04-19 05:03:50,821 - WARNING - Insufficient data for FHEUSDT: 597 rows
+2025-04-19 05:03:51,139 - WARNING - Insufficient data for AERGOUSDT: 229 rows
+2025-04-19 05:03:51,140 - INFO - No symbols meet the criteria.

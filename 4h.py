@@ -51,7 +51,7 @@ for symbol in df_tickers['symbol']:
         
         rsi = get_rsi(df["close"]).iloc[-1]
 
-        if not np.isnan(rsi) and (rsi > 75 or rsi < 25):
+        if not np.isnan(rsi) and (rsi > 75 or rsi < 25) and rsi != 0.0 and rsi != 100.0:
             rsi_result.append({"symbol": symbol, "rsi": rsi, "lastPrice": df_tickers[df_tickers['symbol'] == symbol]['lastPrice'].iloc[0]})
             print(f"{symbol}: RSI {rsi:.2f}")
 
@@ -67,10 +67,10 @@ for symbol in df_tickers['symbol']:
 rsi_df = pd.DataFrame(rsi_result)
 if not rsi_df.empty:
     rsi_df = rsi_df.sort_values('rsi', ascending=False)
-    print("\nFiltered Symbols (RSI > 75 or RSI < 25):")
+    print("\nFiltered Symbols (RSI > 75 or RSI < 25, excluding RSI = 0.00 or 100.00):")
     print(rsi_df)
 else:
-    print("\nNo symbols meet the RSI criteria (RSI > 75 or RSI < 25).")
+    print("\nNo symbols meet the RSI criteria (RSI > 75 or RSI < 25, excluding RSI = 0.00 or 100.00).")
 
 if failed_symbols:
     print(f"\nFailed to fetch data for {len(failed_symbols)} symbols: {failed_symbols}")
